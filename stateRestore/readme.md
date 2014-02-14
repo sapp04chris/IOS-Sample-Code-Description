@@ -3,19 +3,19 @@ satateRestore
 
 
 進入會有很多標籤
-![xx(01.png)
+![xx] (01.png)
 
 按左上角＋號可以新增標籤
-![xx(02.png)
+![xx](02.png)
 
 按右上角Edit可進入刪除模式
-![xx(03.png)
+![xx](03.png)
 
 按右上角Done確定刪除回到一般模式
-![xx(04.png)
+![xx](04.png)
 
 按左下角出現寄mail等選項(無實際作用)
-![xx(05.png)
+![xx](05.png)
 
 點標籤右邊>符號可以進入編輯
-![xx(06.png)
+![xx](06.png)
